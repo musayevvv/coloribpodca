@@ -13,3 +13,6 @@ const productSchema = mongoose.Schema(
 const productModel = mongoose.model('Products', productSchema);
 
 export default productModel;
+
+
+//fsdfasfsafsafsa
